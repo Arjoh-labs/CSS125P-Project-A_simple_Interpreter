@@ -1,0 +1,7 @@
+x: integer;
+y: double;
+x:= 3.5;
+z:= 2;
+output<<"hello world"
+if(x<5)
+  output<<x;
